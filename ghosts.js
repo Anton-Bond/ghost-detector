@@ -202,6 +202,16 @@
       },
     },
     {
+      id: 14,
+      name: { en: "Yokai", ru: "Ёкай" },
+      evidence: [
+        evidences.orb.key,
+        evidences.spiritbox.key,
+        evidences.dots.key,
+      ],
+      behaviors: {},
+    },
+    {
       id: 13,
       name: { en: "Hantu", ru: "Ханту" },
       evidence: [
@@ -225,16 +235,6 @@
           value: 100,
         },
       },
-    },
-    {
-      id: 14,
-      name: { en: "Yokai", ru: "Ёкай" },
-      evidence: [
-        evidences.orb.key,
-        evidences.spiritbox.key,
-        evidences.dots.key,
-      ],
-      behaviors: {},
     },
     {
       id: 15,
