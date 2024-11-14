@@ -1,0 +1,99 @@
+uniqSound: {
+	name: { en: "Unique shout into a directional microphone", ru: "Уникальный крик в направленный микрофон" },
+	value: 0
+}
+
+heavyBreathing: {
+	name: { en: "Heavy breathing into the radio", ru: "Тяжёлое дыхание в радиоприемник" },
+	value: 0
+}
+
+roomChange: {
+	name: { en: 'Never changes his favorite room', ru: 'Никогда не меняет любимую комнату'},
+	value: 0
+}
+
+silhouetteLaserOnlyCamera: {
+	name: { en: 'Silhouette on laser projector only through video camera, no players in his room', ru: 'Силуэт на лазерном проекторе только через видеокамеру, в его комнате нет игроков'},
+	value: 0
+}
+
+lowTempretureFaster: {
+	name: { en: 'Very fast in cold rooms', ru: 'Очень быстр в холодных комнатах'},
+	value: 0
+}
+
+lowTempretureFaster: {
+	name: { en: 'Very fast in cold rooms', ru: 'Очень быстр в холодных комнатах'},
+	value: 0
+}
+
+neverTurnOnPowerSource: {
+	name: { en: 'Never turn on the power source', ru: 'Никогда не включает источник электропитания'},
+	value: 0
+}
+
+neverTurnOffPower: {
+	name: { en: 'Never turn off the power source', ru: 'Никогда не выключит источник электропитания'},
+	value: 0
+}
+
+turnOnLights: {
+	name: { en: 'The ghost turned on the light', ru: 'Призрак включил свет'},
+	value: -100
+}
+
+sixFingered: {
+	name: { en: 'Six-fingered print, two prints on light switch', ru: 'Шестипалый отпечаток, два отпечатка на переключателе света'},
+	value: 0
+}
+
+visibleLongerHunting: {
+	name: { en: 'Visible longer during hunting during flickering', ru: 'Дольше виден на охоте во время мерцания'},
+	value: 0
+}
+
+blowFire: {
+	name: { en: 'This fire source will blow out during the hunt', ru: 'Задует этот источник огня во время охоты'},
+	value: 0
+}
+
+photoTempDisapear: {
+	name: { en: 'After taking a photo, he temporarily disappears.', ru: 'Сфотографировав, он временно исчезает'},
+	value: 0
+}
+
+throwSeveralObjects: {
+	name: { en: 'Throws all nearby objects at once', ru: 'Бросает все предметы рядом за раз'},
+	value: 0
+}
+
+huntMoveSlowly: {
+	name: { en: 'Moves slowly while hunting', ru: 'Во время охоты движется медленно'},
+	value: 0
+}
+
+ageSpeed: {
+	name: { en: 'He is very fast when he is young and very slow when he is old.', ru: 'Он очень быстр, когда молод  и очень медленный, когда стар'},
+	value: 0
+}
+
+changeGhost: {
+	name: { en: 'Changes the ghost', ru: 'Меняет призрака'},
+	value: 0
+}
+
+twoRadii: {
+	name: { en: 'Two interaction radii', ru: 'Два радиуса взаимодействия'},
+	value: 0
+}
+
+noSaltStep: {
+	name: { en: 'Don't step on piles of salt', ru: 'Не наступит на кучки соли'},
+	value: 0
+}
+
+key: {
+	name: { en: '', ru: ''},
+	value: 0
+}

@@ -1,0 +1,28 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.ghost-evidence {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.ghost-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+.crossed+label {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.behavior-content {}
+
+.chart-container {
+  height: 400px;
+  width: 100%;
+}
